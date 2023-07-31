@@ -16,5 +16,3 @@ Para agregar una nueva película, hace click en "Agregar" en el de "Agrega tus p
 Para agregar una nueva música, hace click en "Agregar" en el de "Agrega tu música" o accede al formulario en http://127.0.0.1:8000/music/agregar-musica. 
 Para buscar peliculas por género entre todas las que hay guardadas, hace click en la navbar en "Búsqueda de Género de películas" o accede al formulario en http://127.0.0.1:8000/busq-gen. 
 Para acceder al administrador de la página, dirigirse a http://127.0.0.1:8000/admin y tipear el usuario: AndresSoria Password: Coderhouse99
-
-Esas son todas las funcionalidades de la página web con 3 models distintos, formularios para cada uno y formulario de busqueda que consiste en poder visualizar los libros, películas y la música que uno quiere guardar para tener organizado.
